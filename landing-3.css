@@ -467,3 +467,9 @@
 .footer-about li a:hover{
  color: #0AA195 !important;
 }
+.li-color{
+     color: darkcyan !important;
+}
+.li-color:hover{
+    color: black !important;
+}

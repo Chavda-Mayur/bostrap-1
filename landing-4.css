@@ -216,6 +216,12 @@
 .pb-80px{
     padding-bottom: 80px;
 }
+.li-color{
+     color: darkcyan !important;
+}
+.li-color:hover{
+    color: black !important;
+}
 /* hero-1 */
 .hero-4-1 {
     background-image: url("./img/land_bg_four-TRM2HKFV.jpg");

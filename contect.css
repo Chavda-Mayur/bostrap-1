@@ -306,7 +306,12 @@
     width: 150px;
     text-align: center;
 }
-
+.li-color{
+     color: darkcyan !important;
+}
+.li-color:hover{
+    color: black !important;
+}
 
 /* hero-3*/
 .contect-img{

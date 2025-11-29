@@ -114,7 +114,13 @@
 }
 
 
+.li-color{
+     color: darkcyan !important;
+}
 
+.li-color:hover{
+    color: black !important;
+}
 
 /* navbar end */
 /* hero section */
@@ -518,7 +524,7 @@ color: rgba(255, 255, 255, 0.732);
      color: #0aa195;
      border-radius: 30px;
      letter-spacing: 2px;
-     transition: 2s;
+     transition: 1s;
 }
 
 .joinbutton-center a{
@@ -533,7 +539,7 @@ color: rgba(255, 255, 255, 0.732);
 }
 .price{
     color: black;
-    transition: 1s;
+   
 }
 
 .ext-center{
@@ -720,3 +726,4 @@ color: rgba(255, 255, 255, 0.732);
     margin-top: 40px !important;
     margin-bottom: 50px !important;
 }
+

@@ -376,7 +376,12 @@
    max-width:40px;
    width: 40px;
 }
-
+.li-color{
+     color: darkcyan !important;
+}
+.li-color:hover{
+    color: black !important;
+}
 /* hero-3 */
 
 .bg-3-img{
